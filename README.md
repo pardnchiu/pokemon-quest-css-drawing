@@ -1,8 +1,6 @@
-下一篇: [App Introducing Page 介紹頁面實作範例](https://github.com/pardnchiu/app-introducing-page)
+# Pokemon Quest Css Drawing
 
-# Pokemon Quest Css Drawing 寶可夢探險圖鑑 (CSS繪圖)
-
-![Pokemon Quest Css Drawing 寶可夢探險圖鑑 (CSS繪圖)](https://pardnchiu.github.io/image/repo/pokemon-quest-css-drawing.jpg)
+![Pokemon Quest Css Drawing - 邱敬幃 Pardn Chiu](https://pardnchiu.github.io/image/repo/pokemon-quest-css-drawing.jpg)
 
 ## Feature
 
