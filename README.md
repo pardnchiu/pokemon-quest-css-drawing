@@ -2,7 +2,7 @@
 
 # Pokemon Quest Css Drawing 寶可夢探險圖鑑 (CSS繪圖)
 
-![Pokemon Quest Css Drawing 寶可夢探險圖鑑 (CSS繪圖)](https://pardnchiu.github.io/image/pokemon-quest-css-drawing.jpg)
+![Pokemon Quest Css Drawing 寶可夢探險圖鑑 (CSS繪圖)](https://pardnchiu.github.io/image/repo/pokemon-quest-css-drawing.jpg)
 
 ## Feature
 
