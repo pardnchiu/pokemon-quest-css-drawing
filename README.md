@@ -1,6 +1,6 @@
 # Pokemon Quest Css Drawing
 
-<a href="https://hits.sh/github.com/pardnchiu/pokemon-quest-css-drawing/"><img alt="Hits" src="https://hits.sh/github.com/pardnchiu/pokemon-quest-css-drawing.svg?label=Hit"/></a> <img src="https://img.shields.io/github/repo-size/pardnchiu/pokemon-quest-css-drawing?label=Size"> <img src="https://img.shields.io/github/license/pardnchiu/pokemon-quest-css-drawing?label=License"> <img src="https://img.shields.io/badge/Copyright-邱敬幃%20Pardn%20Chiu-A374BF">
+<a href="https://hits.sh/github.com/pardnchiu/pokemon-quest-css-drawing/"><img alt="Hits" src="https://hits.sh/github.com/pardnchiu/pokemon-quest-css-drawing.svg?label=Hit"/></a> <img src="https://img.shields.io/github/repo-size/pardnchiu/pokemon-quest-css-drawing?label=Size"> <img src="https://img.shields.io/github/license/pardnchiu/pokemon-quest-css-drawing?label=License"> <img src="https://img.shields.io/badge/Developer-邱敬幃%20Pardn%20Chiu-A374BF">
 
 ![Pokemon Quest Css Drawing - 邱敬幃 Pardn Chiu](https://pardnchiu.github.io/image/repo/pokemon-quest-css-drawing.jpg)
 
