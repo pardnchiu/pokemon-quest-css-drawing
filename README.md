@@ -6,7 +6,7 @@
 
 ## Languages & Tools
 
-![](https://skillicons.dev/icons?i=html,css,sass,javascript,vscode)
+![](https://skillicons.dev/icons?i=html,css,sass,vscode)
 
 ## Feature
 
