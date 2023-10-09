@@ -22,10 +22,12 @@
 
 ### 邱敬幃 Pardn Chiu
 
-<a href=mailto:mail@pardn.ltd>
-  <img src=https://pardnchiu.github.io/image/mail.svg>
-</a>&nbsp<a href=https://linkedin.com/in/pardnchiu>
+<a href="mailto:mail@pardn.ltd">
+  <img src="https://pardnchiu.github.io/image/mail.svg">
+</a>&nbsp<a href="https://linkedin.com/in/pardnchiu">
   <img src="https://skillicons.dev/icons?i=linkedin">
+</a>&nbsp<a href="https://pardn.io/blog">
+  <img src="https://pardnchiu.github.io/image/blog.svg">
 </a>
 
 <br>
